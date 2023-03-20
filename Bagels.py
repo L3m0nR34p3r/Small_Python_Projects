@@ -7,8 +7,8 @@ A dedcutive logic game where you must guess a number based on clues."""
 
 import random
 
-NUM_DIGITS = 10 # (!) Try setting this to 1 or 10
-MAX_GUESSES = 10 # (!) Try setting this to 1 or 100
+NUM_DIGITS = 3 # (!) Try setting this to 1 or 10
+MAX_GUESSES = 5 # (!) Try setting this to 1 or 100
 
 
 def main():
